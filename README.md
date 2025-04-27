@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Atualmente estou trabalhando no desenvolvimento de aplicações full-stack.<br><br>🌱 Atualmente estou aprendendo mais sobre frameworks modernos de JavaScript, TypeScript, design de sistemas, infraestrutura cloud (AWS, Azure), práticas de DevOps e otimização de bancos de dados.<br><br>⚡ Curiosidade: Além da tecnologia, gosto de astronomia, carros e música. 
+🔭 Estou estudando no desenvolvimento de aplicações full-stack.<br><br>🌱 Atualmente estou aprendendo mais sobre frameworks modernos de JavaScript, TypeScript, design de sistemas, infraestrutura cloud (AWS, Azure), práticas de DevOps e otimização de bancos de dados.<br><br>⚡ Curiosidade: Além da tecnologia, gosto de astronomia, carros e música. 
 
 
 ## 🌐 Social:
@@ -34,8 +34,16 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CorsaAroCromado&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 
-  ![](https://nirzak-streak-stats.vercel.app/?user=CorsaAroCromado&theme=dark&hide_border=false)
 </div>
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CorsaAroCromado/CorsaAroCromado/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CorsaAroCromado/CorsaAroCromado/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CorsaAroCromado/CorsaAroCromado/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
